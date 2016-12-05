@@ -1,0 +1,2 @@
+Login - Session masih bisa masuk ke halaman lain
+Distribusi Barang - Jalan - Kurang tracker dan permintaan barang
